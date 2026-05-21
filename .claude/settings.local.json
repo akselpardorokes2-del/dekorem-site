@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo chmod -R 755 /Users/akselpardorokes/.npm/_cacache)",
+      "Bash(npm install *)",
+      "Bash(npm cache *)"
+    ]
+  }
+}
